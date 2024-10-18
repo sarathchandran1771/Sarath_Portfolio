@@ -321,22 +321,8 @@ export const projects = [
       "https://raw.githubusercontent.com/sarathchandran1771/Sarath_Portfolio/refs/heads/main/src/images/ProjectImages/Martx_Home.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    github: "https://github.com/sarathchandran1771/Mart-X.git",
+    webapp: "https://martxs.shop/",
   },
   {
     id: 1,
@@ -355,8 +341,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/sarathchandran1771/Omnify_NextJs.git",
+    webapp: "https://omnify-desk-i8tg83e23-sarath-chandran-ks-projects.vercel.app/",
   },
   {
     id: 2,
@@ -368,22 +354,8 @@ export const projects = [
       "https://raw.githubusercontent.com/sarathchandran1771/Sarath_Portfolio/refs/heads/main/src/images/ProjectImages/TechPrime_dashboard.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "https://github.com/sarathchandran1771/TechPrime_DashBoard_Full.git",
     webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
   },
   {
     id: 3,
@@ -395,8 +367,8 @@ export const projects = [
       "https://raw.githubusercontent.com/sarathchandran1771/Sarath_Portfolio/refs/heads/main/src/images/ProjectImages/weatherApp.png",
     tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/sarathchandran1771/Weather_App_React-Js.git",
+    webapp: "https://weather-app-react-js-alpha.vercel.app/",
   },
   {
     id: 5,
@@ -408,7 +380,7 @@ export const projects = [
     "https://raw.githubusercontent.com/sarathchandran1771/Sarath_Portfolio/refs/heads/main/src/images/ProjectImages/ToDo%20App.png",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
+    github: "https://github.com/sarathchandran1771/Todo.git",
     webapp: "https://todo-jczgfovfc-sarath-chandran-ks-projects.vercel.app/",
   }, 
 
