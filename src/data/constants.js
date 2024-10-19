@@ -355,7 +355,7 @@ export const projects = [
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
     github: "https://github.com/sarathchandran1771/TechPrime_DashBoard_Full.git",
-    webapp: "https://brain-tumor.netlify.app/",
+    webapp: "https://tech-prime-dash-board-full-frontend.vercel.app/dashboard",
   },
   {
     id: 3,
